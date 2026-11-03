@@ -4,7 +4,7 @@ Lavorate in tre sullo stesso repository. Ognuno usa IntelliJ per lavorare sui fi
 1. Clona il repository e crea il tuo branch
     1. Clona il repository in IntelliJ. Apri Main.java e avvialo per vedere il saluto iniziale.
     2. Controlla con git status che il branch corrente sia main. Aggiornalo con git pull
-    3. Crea da main un branch personale chiamato vedi nome degli altri esercizi e spostati su quel branch.
+    3. Crea da main un branch personale chiamato consegna/nomeesercizio-cognome e spostati su quel branch.
     
 2. Modifica, controlla e pubblica
     1. Cambia il saluto in Main.java in Buongiorno, sono Rossi!, usando il tuo cognome.
