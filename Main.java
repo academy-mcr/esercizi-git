@@ -11,5 +11,6 @@ public class Main {
         }
         
         System.out.println("Buongiorno, sono Maresca!");
+        System.out.println("Benvenuti al laboratorio Git.");
     }
 }
