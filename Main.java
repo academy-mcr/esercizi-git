@@ -10,6 +10,6 @@ public class Main {
             nome = "ospite";
         }
         
-        System.out.println("Buongorno " + nome);
+        System.out.println("Buongiorno, sono Maresca!");
     }
 }
