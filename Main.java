@@ -11,6 +11,5 @@ public class Main {
         }
         
         System.out.println("Saluto dopo il merge.");
-        System.out.println("Il corso è annullato.");
     }
 }
