@@ -1,0 +1,1 @@
+Prima di integrare: git status e git diff. Usa cherry-pick per importare un singolo commit; revert annulla un commit conservando la cronologia.
