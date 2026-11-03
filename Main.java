@@ -10,6 +10,6 @@ public class Main {
             nome = "ospite";
         }
         
-        System.out.println("Saluto dal branch di integrazione.");
+        System.out.println("Saluto dopo il merge.");
     }
 }
