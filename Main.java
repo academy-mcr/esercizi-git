@@ -10,7 +10,6 @@ public class Main {
             nome = "ospite";
         }
         
-        System.out.println("Buongiorno, sono Maresca!");
-        System.out.println("Benvenuti al laboratorio Git.");
+        System.out.println("Saluto dal branch sorgente.");
     }
 }
